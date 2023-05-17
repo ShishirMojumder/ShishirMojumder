@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShishirMojumder
 - 👀 I’m interested in coding,photography,travelling,bike riding,football 
-- 🌱 I’m currently learning wordpress
+- 🌱 I’m currently learning SEO
  📫 How to reach me ? shishir,mojumder1@g.bracu.ac.bd
 
 <!---
