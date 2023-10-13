@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShishirMojumder
 - 👀 I’m interested in coding,photography,travelling,bike riding,football 
-- 🌱 I’m currently learning SEO
- 📫 How to reach me ? shishir,mojumder1@g.bracu.ac.bd
+- 🌱 I’m currently learning Python
+ 📫 How to reach me ? shishir.mojumder1@g.bracu.ac.bd
 
 <!---
 ShishirMojumder/ShishirMojumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
