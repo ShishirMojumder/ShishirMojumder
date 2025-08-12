@@ -29,8 +29,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShishirMojumder&show_icons=true&bg_color=0D6EFD,1A73E8,3F8EFC&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=ShishirMojumder&background=0D6EFD&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShishirMojumder&show_icons=true&bg_color=0D6EFD,1A73E8,3F8EFC&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ShishirMojumder&background=0D6EFD&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="165"/>
+</p>
+
 
 </p>
 
