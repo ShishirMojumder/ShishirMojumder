@@ -18,8 +18,8 @@ I’m passionate about building clean, user-friendly, and scalable web applicati
 ---
 
 ## 📊 GitHub Stats
-![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0D6EFD,1A73E8,3F8EFC&title_color=ffffff&text_color=ffffff&icon_color=ffffff)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0D6EFD,1A73E8,3F8EFC&title_color=ffffff&text_color=ffffff)
+![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShishirMojumder&show_icons=true&bg_color=0D6EFD,1A73E8,3F8EFC&title_color=ffffff&text_color=ffffff&icon_color=ffffff)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirMojumder&layout=compact&bg_color=0D6EFD,1A73E8,3F8EFC&title_color=ffffff&text_color=ffffff)
 
 ---
 
